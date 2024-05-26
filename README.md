@@ -1,3 +1,5 @@
+<div style="background:black">
+
 ![logo](https://avatars.githubusercontent.com/u/128688572)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
@@ -92,15 +94,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-[Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=linhtutkyawdev\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=linhtutkyawdev&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
-
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -133,3 +126,4 @@
 <br>
 <p align="right" > Crd to the original creator ❣️</p>
 
+</div>
